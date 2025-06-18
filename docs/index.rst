@@ -10,7 +10,7 @@ Learn how to securely access your Acorn account sign in, manage your portfolio, 
 
   .. image:: sign-in.jpg
    :alt: Acorn Account Sign In
-   :width: 200px
+   :width: 400px
    :align: center
    :target: https://aclogportal.com/acorn-signin
 
